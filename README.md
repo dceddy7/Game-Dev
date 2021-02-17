@@ -1,2 +1,2 @@
-# Portfolio
-A portfolio of my game projects
+# Game Dev repo
+A repo for my game projects
